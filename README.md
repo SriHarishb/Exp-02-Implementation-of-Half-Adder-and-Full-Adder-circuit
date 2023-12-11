@@ -72,3 +72,6 @@ FULL ADDER:![Exp3 truthtable (fa)](https://github.com/SriHarishb/Exp-02-Implemen
 
 
 ### Result:
+
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog
+ programming.
